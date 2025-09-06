@@ -1,0 +1,7 @@
+- Большая вероятность успеха
+- [[present]]
+	- [[will]] - 100%
+	- [[should]] and [[ought to]] - 90%
+- [[past]] 
+	- He [[should have]] received his prize by now
+	- They [[ought to have]] arrived an hour ago

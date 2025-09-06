@@ -1,0 +1,10 @@
+- Получить разрешение
+	- [[present]] 
+		- You [[can]] borrow my car
+		- [[could]] I use 
+		- You [[may]] use the phone
+		- [[might]] I speak to Mr. Jones, please
+		- You [[can't]]/[[mustn't]] see the patient
+		- Children [[may not]] be left
+	- [[past]]
+		- He [[wasn't allowed to]]/[[couldn't]] cross the border

@@ -1,0 +1,7 @@
+- выражения способности. Мы используем, чтобы, чтобы иметь возможность и могли показать, что у кого-то есть (или нет) способность что-то делать.
+- [[present]]
+		- He [[can]] read Arabic
+		- She's able to([[be able to]]) run a marathon
+- [[past]]
+	- He [[could]]/was able to([[be able to]])read arabica
+	- He was able to([[be able to]]) ride a bike when he was ten

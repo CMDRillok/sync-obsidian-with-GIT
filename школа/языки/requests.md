@@ -1,0 +1,10 @@
+- запросы. Получить разрешение
+- [[present]]
+	- [[can]] I borrow your book?
+	- [[could]] I borrow your book
+	- [[May]] I have a cup of coffee
+	- [[might]] I use your phone
+	- [[will]] you phone Jane tonight
+	- [[would you mind]] sending this fax
+- [[past]]
+	- nothing

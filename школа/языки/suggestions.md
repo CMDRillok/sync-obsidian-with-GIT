@@ -1,0 +1,7 @@
+- предложение сделать что-то вместе
+- [[present]]
+	- [[Shall]] we dance 
+	- I/we [[can]] go now if you want
+	- we [[could]] leave if you want
+- [[past]]
+	- He [[could have]] consulted a lawyer

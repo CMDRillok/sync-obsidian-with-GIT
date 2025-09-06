@@ -1,0 +1,14 @@
+- возможность. есть вероятность
+- [[present]]
+	- He [[can]] win the race (90%)
+	- They [[could]] still be at school(50%)
+	- Tom [[may]] be studying in his room(50%)
+	- He [[might]] want some more food(40%)
+	- [[it's likely]] that he will arrive tonight
+	- [[he is likely to]] arrive tonight
+- [[past]]
+	- She [[could have]] been killed
+	- He [[may have]] spoken to Jenny
+	- He [[might have]] forgotten
+	- [[it was likely that]] he had arrived
+	- [[he was likely to]]  have arrived

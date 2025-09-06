@@ -1,0 +1,11 @@
+- предложение, совет
+- [[present]]
+	- предложение, совет
+	- you [[should]] drink more water
+	- you [[ought to]] respect
+	- You [[had better]] finish it
+	- [[shall]] I buy that car?
+- [[past]]
+	- You [[should have]] gone to bed
+	- He [[ought to have]] seen a doctor
+	- it [[would have been better]] if you had finished it yesterday

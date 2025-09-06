@@ -1,0 +1,2 @@
+- убрать
+- I put my phone away

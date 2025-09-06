@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"a4182138d328fe55","x":-201,"y":-518,"width":381,"height":50,"type":"text","text":"относится к личному местоимению?"},
+		{"id":"bf3d537c897793c1","type":"text","text":"нет","x":180,"y":-300,"width":250,"height":50},
+		{"id":"4b7fa3a4b28b4943","x":141,"y":-140,"width":329,"height":60,"type":"text","text":"стоит  ДО определяемого слова?"},
+		{"id":"ad9e5c36f639ad17","x":-133,"y":0,"width":274,"height":60,"type":"text","text":"ДО определяемого слова"},
+		{"id":"054fc979ca33c19c","x":470,"y":0,"width":290,"height":60,"type":"text","text":"ПОСЛЕ определяемого слова"},
+		{"id":"b04c04db724d15df","x":-121,"y":140,"width":250,"height":60,"type":"text","text":"Распространённое?"},
+		{"id":"2aebb4128ed5a96d","x":-121,"y":276,"width":250,"height":100,"type":"text","text":"Причина, уступка?\n- обособляется"},
+		{"id":"3283ce99e102da99","type":"text","text":"Распространённое?","x":490,"y":140,"width":250,"height":60},
+		{"id":"72da25ab1366d740","x":220,"y":279,"width":250,"height":97,"type":"text","text":"Да\n- обособляется"},
+		{"id":"cd332545afde1e96","x":732,"y":263,"width":250,"height":60,"type":"text","text":"НЕраспространённоре"},
+		{"id":"dd4ec40aa37b8d17","x":732,"y":376,"width":250,"height":62,"type":"text","text":"Однородные?"},
+		{"id":"adc723ab009fce0a","type":"text","text":"Да\n- обособляется","x":732,"y":500,"width":250,"height":97},
+		{"id":"81e7a94566a15413","type":"text","text":"Да\n- обособляется","x":-451,"y":-300,"width":250,"height":97}
+	],
+	"edges":[
+		{"id":"cd0b9826585358e3","fromNode":"a4182138d328fe55","fromSide":"right","toNode":"bf3d537c897793c1","toSide":"top"},
+		{"id":"c5da8a237ee302d1","fromNode":"bf3d537c897793c1","fromSide":"bottom","toNode":"4b7fa3a4b28b4943","toSide":"top"},
+		{"id":"1d75220dd600ebd3","fromNode":"4b7fa3a4b28b4943","fromSide":"left","toNode":"ad9e5c36f639ad17","toSide":"top"},
+		{"id":"154d46c7dc912b71","fromNode":"4b7fa3a4b28b4943","fromSide":"right","toNode":"054fc979ca33c19c","toSide":"top"},
+		{"id":"a2f1a0519f0c0f64","fromNode":"b04c04db724d15df","fromSide":"bottom","toNode":"2aebb4128ed5a96d","toSide":"top"},
+		{"id":"4c7abfe74ee5022b","fromNode":"ad9e5c36f639ad17","fromSide":"bottom","toNode":"b04c04db724d15df","toSide":"top"},
+		{"id":"88fe68c70bf3c950","fromNode":"054fc979ca33c19c","fromSide":"bottom","toNode":"3283ce99e102da99","toSide":"top"},
+		{"id":"26440be42e10a532","fromNode":"3283ce99e102da99","fromSide":"left","toNode":"72da25ab1366d740","toSide":"top"},
+		{"id":"0d589f8f7dafcc6c","fromNode":"3283ce99e102da99","fromSide":"right","toNode":"cd332545afde1e96","toSide":"top"},
+		{"id":"26e8d65fe1f638e6","fromNode":"cd332545afde1e96","fromSide":"bottom","toNode":"dd4ec40aa37b8d17","toSide":"top"},
+		{"id":"e2a55d0249777251","fromNode":"dd4ec40aa37b8d17","fromSide":"bottom","toNode":"adc723ab009fce0a","toSide":"top"},
+		{"id":"2bab59fafa661ea7","fromNode":"a4182138d328fe55","fromSide":"left","toNode":"81e7a94566a15413","toSide":"top"}
+	]
+}

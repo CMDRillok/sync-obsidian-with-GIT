@@ -1,0 +1,14 @@
+ должен, вынужден
+	- [[present]]
+		- I [[must]] buy a new jacket
+		- He [[has to]] put some petrol
+		- I [[have got to]] go to the blank now
+		- my car [[need]]s repairing
+		- my car [[need]]s to be repaired
+		- they [[didn't have to, didn't need to, needn't have done]] come if they don't want to
+	- [[past]]
+		- I [[had to]]
+		- my car [[need]]ed repairing
+		- my car [[need]]ed to be repaired
+		- [[didn't have to, didn't need to, needn't have done]]
+		- he [[needn't have]]

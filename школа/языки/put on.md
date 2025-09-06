@@ -1,0 +1,2 @@
+- надеть, одеть
+- I'm putting jacket on

@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"e978062ca93a12f6","type":"file","file":"школа/математика/files/Pasted image 20250112170524.png","x":-106,"y":-320,"width":994,"height":50},
+		{"id":"31bb4e8f66b7e617","type":"file","file":"школа/математика/files/Pasted image 20250112165616.png","x":-1040,"y":-320,"width":856,"height":50},
+		{"id":"6a3e330d1e5b6e1b","type":"file","file":"школа/математика/files/Pasted image 20250112170111.png","x":-803,"y":40,"width":382,"height":400},
+		{"id":"1e4a4ea0bedbe2ff","type":"text","text":"1) чтобы корни существовали, их D >= 0;","x":200,"y":56,"width":431,"height":51},
+		{"id":"fcc0857650595947","type":"file","file":"школа/математика/files/Pasted image 20250112170738.png","x":315,"y":280,"width":200,"height":102},
+		{"id":"515ade26dd9e01a6","type":"file","file":"школа/математика/знак неравенства при делении меняется на обратный в неравенствах.md","x":960,"y":-387,"width":380,"height":769},
+		{"id":"6e6d2370c018351b","type":"file","file":"школа/математика/files/Pasted image 20250112171108.png","x":699,"y":520,"width":189,"height":274}
+	],
+	"edges":[
+		{"id":"cabf034e0fab7a2a","fromNode":"31bb4e8f66b7e617","fromSide":"bottom","toNode":"6a3e330d1e5b6e1b","toSide":"top"},
+		{"id":"23c6ca25c070e32f","fromNode":"e978062ca93a12f6","fromSide":"bottom","toNode":"1e4a4ea0bedbe2ff","toSide":"top"},
+		{"id":"160685af919140a4","fromNode":"1e4a4ea0bedbe2ff","fromSide":"bottom","toNode":"fcc0857650595947","toSide":"top"},
+		{"id":"b3960a8ded07d338","fromNode":"fcc0857650595947","fromSide":"bottom","toNode":"6e6d2370c018351b","toSide":"top"},
+		{"id":"66d29d9c2c8cd7e0","fromNode":"515ade26dd9e01a6","fromSide":"bottom","toNode":"6e6d2370c018351b","toSide":"top"}
+	]
+}

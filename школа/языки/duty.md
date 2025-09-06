@@ -1,0 +1,7 @@
+- долг
+- [[present]]
+	- Everyone [[must]] obey the law
+	- people [[ought to]] be more tolerant
+- [[past]]
+	- All the villages [[had to]] obey the law
+	- He [[ought to have]] been more tolerant

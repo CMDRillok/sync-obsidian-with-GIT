@@ -1,0 +1,2 @@
+- остановить, потушить огонь
+- Fire was put out yesterday night([[passive voice]])

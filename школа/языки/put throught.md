@@ -1,0 +1,2 @@
+- соединить по телефону
+- put me throught with  jana connor

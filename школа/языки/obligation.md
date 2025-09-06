@@ -1,0 +1,9 @@
+- обязанности
+- [[present]]
+	- I [[must]] go on a diet
+	- I [[have to]] go on a diet
+	- We [[ought to]] donate some money 
+- [[past]]
+	- I [[had to]] do on a diet
+	- I [[had to]] do on a diet
+	- We [[ought to have]] donated some money to the poor

@@ -1,0 +1,9 @@
+- критика
+- [[present]]
+	- You [[could]] at least help me
+	- They [[should]] try harder
+	- You [[ought to]] behave yourself
+- [[past]]
+	- You [[could have]] at least helped me last night
+	- They [[should have]] tried harder
+	- You [[ought to have]] behaved yourself

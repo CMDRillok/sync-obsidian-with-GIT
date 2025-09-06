@@ -1,0 +1,2 @@
+- смириться
+- I hadn't put with my mom's die, yet

@@ -1,0 +1,5 @@
+- предложение сделать что-то для кого-то
+- [[present]]
+	- [[can]] I/we do anything for you
+	- [[shall]] I/we do it for you
+	- We [[could]] leave if you want

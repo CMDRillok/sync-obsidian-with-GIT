@@ -1,0 +1,3 @@
+- [[past]] + past
+- [[if-clause]], [[main clause]]
+- [[main clause]] [[if-clause]]

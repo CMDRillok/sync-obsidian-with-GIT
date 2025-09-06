@@ -1,0 +1,2 @@
+- отсрочить
+- My friend put your party off
