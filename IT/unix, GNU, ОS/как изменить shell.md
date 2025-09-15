@@ -1,5 +1,4 @@
 ```shell
-chsh
-/bin/<название shell>
+chsh /bin/<название shell>
 reboot
 ```
