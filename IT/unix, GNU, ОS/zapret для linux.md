@@ -6,3 +6,4 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/Snowy-Fluffy/zapret.instal
 zapret
 ```
 чтобы открыть интерфейс
+[[Linux]]

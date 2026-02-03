@@ -2,3 +2,4 @@
 chsh /bin/<название shell>
 reboot
 ```
+[[Linux]]
